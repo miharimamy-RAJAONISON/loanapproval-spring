@@ -16,7 +16,7 @@
   </properties>
  
   <!-- import camunda BOM to ensure correct versions of camunda projects -->
-  <!-- Test 3 -->
+  <!-- Test 4 -->
   <dependencyManagement>
     <dependencies>
       <dependency>
